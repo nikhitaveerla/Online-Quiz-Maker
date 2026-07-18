@@ -1,16 +1,34 @@
-# React + Vite
+# Online Quiz Maker 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A React-based Online Quiz Maker application that allows users to create quizzes, take quizzes, and track their performance.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User Registration and Login
+- Protected Routes
+- Create Custom Quizzes
+- Add Multiple Choice Questions
+- Edit and Delete Quizzes
+- Browse Available Quizzes
+- Search and Filter Quizzes
+- Take Quiz with Timer
+- Automatic Score Calculation
+- Result Analysis
+- Quiz History Tracking
+- Responsive Design for Mobile Devices
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+### Frontend
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Storage
+- Browser Local Storage
+
+
+## 📂 Project Structure
