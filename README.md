@@ -32,3 +32,31 @@ A React-based Online Quiz Maker application that allows users to create quizzes,
 
 
 ## 📂 Project Structure
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Home Page (Alternative View)
+![Home Page 2](screenshots/home2.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Create Quiz Page
+![Create Quiz](screenshots/createquiz.png)
+
+### Create Quiz (Additional View)
+![Create Quiz 2](screenshots/createquiz2.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Quiz History
+![Quiz History](screenshots/quizhistory.png)
+
+### Result Page
+![Result](screenshots/result.png)
